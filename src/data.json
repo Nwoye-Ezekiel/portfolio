@@ -124,6 +124,14 @@
       "live_url": "https://nwoye-ezekiel.github.io/iclock/",
       "github_url": "https://github.com/Nwoye-Ezekiel/iclock"
     },
+    "money-rise": {
+      "name": "Money Rise",
+      "description": "This is a basic sign in page which doesn't use an actual api for authentication. This page gives a soothing feel as it includes an animation on page load. It also has a functional 'Remember me' checkbox for persisting user login credentials to better improve user experience. Other notable features includes a loading spinner and gradient animation on form hover.",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644472163/money-rise_jpa4y0.png",
+      "gif_url": "",
+      "live_url": "https://money-rise.netlify.app/",
+      "github_url": "https://github.com/Nwoye-Ezekiel/fe-intern-test"
+    },
     "any-converter": {
       "name": "Any Converter",
       "description": "I deal with binary codes as a Computer Engineering student since they are highly important in my field and college courses. During a year in which I did a lot of binary calculations, I decided to try something new by using the little HTML, CSS, and JavaScript skills I had to make my own Decimal to Binary converter, which I used a lot when studying and practicing for tests and exams. I forwarded the link to my friends, who all took advantage of it.",
