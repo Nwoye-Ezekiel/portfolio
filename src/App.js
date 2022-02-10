@@ -91,7 +91,11 @@ function App() {
     <div className="app">
       <header className="app__header">
         <Link to="/">
-          <img src={Logo} alt="logo" style={{ width: "30px", margin: "20px" }} />
+          <img
+            src={Logo}
+            alt="logo"
+            style={{ width: "30px", margin: "20px" }}
+          />
         </Link>
         <button
           aria-label="Open menu"

@@ -61,8 +61,7 @@
     "number-puzzle": {
       "name": "Number Puzzle",
       "description": "This is the most recent project I've worked on. It is a puzzle game that most people are acquainted with, having been played regularly during their infancy. This project was built with React, and it has received a lot of favorable comments. You may read the 'How to Play' description when the game launches, which will lead you and give you an overview of the game. When a game is paused, you may view a demo of how movements were performed to win the game from the menu modal.",
-      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644454453/sample.jpg",
-      "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824211/Portfolio/Project%20Screenshots/g4pjkwgfwyscbhjpbmss.png",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644465194/puzzle_bjknvg.png",
       "gif_url": "",
       "live_url": "https://number-slide-puzzle.netlify.app",
       "github_url": "https://github.com/Nwoye-Ezekiel/number-puzzle"
@@ -70,7 +69,7 @@
     "would-you-rather": {
       "name": "Would You Rather",
       "description": "This was one of my React Nanodegree Projects on Udacity and is one of my favorites. This is a question game in which you sign in as one of the already created users and begin answering questions that other users have posted but to which you have not yet answered. A poll result is created once you answer a question, and you may examine the statistics for that question. You level up on the scoreboard as you answer more questions and generate new questions, which are displayed on the leaderboard page. This project heavily focused on Redux which helped me to be a lot better at it.",
-      "image_url": "https://res.cloudinary.com/karso/image/upload/v1624874114/Portfolio/Project%20Screenshots/p8yvzprijsyuro2h9gtb.png",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644465274/would-you-rather_eqcdsk.png",
       "gif_url": "",
       "live_url": "https://the-would-you-rather-game.netlify.app",
       "github_url": "https://github.com/Nwoye-Ezekiel/would-you-rather"
@@ -78,7 +77,7 @@
     "my-reads": {
       "name": "My Reads",
       "description": "This was my first practical project for the React Nanodegree Program, and it was designed to help me solidify my grasp of React principles, with a focus on state management. It's a virtual bookshelf where you may read books and then transfer them to other shelves, such as Currently Reading, Read or Want to read, based on what's most convenient at the time. You may also use the search page to look for books, add new books to the shelves, and remove them.",
-      "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824211/Portfolio/Project%20Screenshots/hfqtds5eqokmn0kzonzg.png",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644464021/my-reads1_xsqopn.png",
       "gif_url": "",
       "live_url": "https://the-reads-app.netlify.app/",
       "github_url": "https://github.com/Nwoye-Ezekiel/my-reads-app"
@@ -86,8 +85,9 @@
     "mobile-flashcards": {
       "name": "Mobile Flashcards",
       "description": "This was my last React Nanodegree Project on Udacity, completing my degree and earning my certification. It was on React Native, and learning it for the first time was a lot of fun. Users may construct decks, and then add questions (along with answers) to the decks. Upon adding a card to a deck, a user can quiz themselves using that deck, which can be titled anything from 'Physics' to 'React.', etc. The card with the question on it may be flipped over to reveal the answer. You'll be scored after the quiz, and a local notification will be reset at that time to notify you at a particular time the next day if you haven't completed at least one quiz for that day.",
-      "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824209/Portfolio/Project%20Screenshots/j0fhpctaxekdx0cyvwzq.png",
-      "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824213/Portfolio/Project%20Screenshots/ddb4asyngfqywy3nepif.png",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644466782/flashcards_jhlg9s.png",
+      "device_type": "mobile",
+      "device_image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644465512/mobile.flashcards_gf4d5m.png",
       "gif_url": "",
       "live_url": null,
       "github_url": "https://github.com/Nwoye-Ezekiel/mobile-flashcards"
@@ -95,7 +95,7 @@
     "county-bites": {
       "name": "County Bites",
       "description": "This was a project for a client in the United States. During my React Nanodegree program, I took on this project and used everything I'd learned thus far to develop this static website using React. This project necessitated several on-scroll animations, which I also implemented. County Bites is a social food and grocery delivery network that lets you find new restaurants in your region, get it delivered quickly and correctly, and pay the lowest delivery commission of any platform. It gives the greatest local cuisine to rural populations. The website encourages visitors to download the app, which is where all of the transactions take place",
-      "image_url": "https://res.cloudinary.com/karso/image/upload/v1624830633/Portfolio/Project%20Screenshots/zxw5lmye6kquwliloc3w.png",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644464306/county-bites_c1eqof.png",
       "gif_url": "",
       "live_url": "https://county-bites.netlify.app/",
       "github_url": null
@@ -103,8 +103,7 @@
     "time-stack": {
       "name": "Time Stack",
       "description": "Time Stack is a time management application that can help you close the gap in your productivity. This aim can be attained with proper time management, and time Stack is the man for the job. You may quickly create tasks, specify an expiry date for completion with a chosen priority level, and examine the statistics of all the tasks you have, whether finished or uncompleted, with precise information. This was my very first React Project which was created the following week after I just started learning it.",
-      "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824211/Portfolio/Project%20Screenshots/qpnzlifod0wxff0lbtnr.png",
-      "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824211/Portfolio/Project%20Screenshots/joea9loffnpuaiyke4ff.png",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644464396/time-stack_c3ojpn.png",
       "gif_url": "",
       "live_url": "https://timestack.netlify.app/",
       "github_url": "https://github.com/Nwoye-Ezekiel/stack"
@@ -112,8 +111,7 @@
     "smash": {
       "name": "Smash",
       "description": "This was a game I made in the year 2020. I made this with HTML, CSS, and Vanilla JavaScript, with no prior knowledge of frameworks. It took a bit long since I couldn't make reusable components as I could with React, but it was all part of the learning process. This game has a similar feel to the popular 'Piano tiles' game, but it's a little different. In contrast to the latter, the tiles do not fall; instead, you smash tiles that display a specific hue, which is white. The game will be terminated if you respond late or smash the wrong tile. There are numerous difficulty levels in the game as well.",
-      "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824210/Portfolio/Project%20Screenshots/io2eagos5jgn1pig2ldh.png",
-      "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824210/Portfolio/Project%20Screenshots/ibjkeqd5iiqwwiqzd2ft.png",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644464487/snash_odfwqt.png",
       "gif_url": "",
       "live_url": "https://nwoye-ezekiel.github.io/smash/",
       "github_url": "https://github.com/Nwoye-Ezekiel/smash"
@@ -121,8 +119,7 @@
     "iclock": {
       "name": "iClock",
       "description": "I was eager to construct projects in my early days of studying web technologies to show myself that I had what it takes. This was one of the projects I opted to work on, and it was named iClock. It's essentially an analog clock with a digital display built-in, as the name implies. The current month, date, and weekday are also displayed on this clock. It features a dark mode and a unique neumorphism design.",
-      "image_url": "https://res.cloudinary.com/karso/image/upload/v1624835630/Portfolio/Project%20Screenshots/plbctazbvcnqs8ipbx7y.png",
-      "device_type": "mobile",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644464703/iClock_xsdmtd.png",
       "gif_url": "",
       "live_url": "https://nwoye-ezekiel.github.io/iclock/",
       "github_url": "https://github.com/Nwoye-Ezekiel/iclock"
@@ -130,7 +127,7 @@
     "any-converter": {
       "name": "Any Converter",
       "description": "I deal with binary codes as a Computer Engineering student since they are highly important in my field and college courses. During a year in which I did a lot of binary calculations, I decided to try something new by using the little HTML, CSS, and JavaScript skills I had to make my own Decimal to Binary converter, which I used a lot when studying and practicing for tests and exams. I forwarded the link to my friends, who all took advantage of it.",
-      "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824212/Portfolio/Project%20Screenshots/esa1ebkfh76cwl1gzgtg.png",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644464894/any-converter_w06nr3.png",
       "gif_url": "",
       "live_url": "https://nwoye-ezekiel.github.io/binary/",
       "github_url": "https://github.com/Nwoye-Ezekiel/binary"
@@ -138,8 +135,7 @@
     "animated-cat": {
       "name": "Animated Cat",
       "description": "With my interest in animations, I attempted to build various animations using CSS as a means of improving my skills and producing cool effects. When I initially discovered how to utilize Keyframes, I decided to do something with it that not many people do. I made a cat replica and added animations to make it behave like a real cat. When I put it up on the internet, it drew a lot of attention and received a lot of positive responses.",
-      "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824213/Portfolio/Project%20Screenshots/wcva4dpewjnxgitda74u.png",
-      "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824211/Portfolio/Project%20Screenshots/bjlc498c6udk51hhu7fz.png",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644464957/cat_uzxi9y.png",
       "gif_url": "",
       "live_url": "https://nwoye-ezekiel.github.io/animation-cat/",
       "github_url": "https://github.com/Nwoye-Ezekiel/animation-cat"
@@ -147,7 +143,7 @@
     "animated-wine-glass": {
       "name": "Animated Wine Glass",
       "description": "Still working on animations, when I realized how much I had progressed in CSS simply by trying to make one animation, I decided to devote more time to it. I didn't want to have that mindset after hearing a lot of people say how difficult CSS was for them to learn, so I attempted to incorporate very good animations to make it appear easy and also to raise the morale of my friends to spend more time and effort into it to get better. This animation creates the illusion of wine flowing in a wavy manner in a glass cup.",
-      "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824209/Portfolio/Project%20Screenshots/meqai7m3xn5n9tu6ne6i.png",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644465005/wine_mvoqjl.png",
       "gif_url": "",
       "live_url": "https://nwoye-ezekiel.github.io/Animation-WineGlass/",
       "github_url": "https://github.com/Nwoye-Ezekiel/Animation-WineGlass"

@@ -43,7 +43,7 @@ const LandingPage = () => {
 
             <Typewriter
               options={{
-                strings: ["Software Engineer.", "Front-end Web Developer."],
+                strings: ["Software Engineer.", "Front-End Web Developer."],
                 autoStart: true,
                 loop: true,
                 wrapperClassName: "landing-page__role",

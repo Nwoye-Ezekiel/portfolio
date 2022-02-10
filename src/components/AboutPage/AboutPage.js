@@ -3,7 +3,7 @@ import "./AboutPage.css";
 import { Link } from "react-router-dom";
 import Lottie from "react-lottie";
 import Fade from "react-reveal/Fade";
-import animationData from "../../images/lotties/female.json";
+import animationData from "../../images/lotties/man.json";
 import { HTMLIcon, CodeBracesIcon, WebIcon } from "../../images/icons/icons";
 
 const AboutPage = () => {
