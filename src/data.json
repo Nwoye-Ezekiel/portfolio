@@ -85,7 +85,7 @@
     "mobile-flashcards": {
       "name": "Mobile Flashcards",
       "description": "This was my last React Nanodegree Project on Udacity, completing my degree and earning my certification. It was on React Native, and learning it for the first time was a lot of fun. Users may construct decks, and then add questions (along with answers) to the decks. Upon adding a card to a deck, a user can quiz themselves using that deck, which can be titled anything from 'Physics' to 'React.', etc. The card with the question on it may be flipped over to reveal the answer. You'll be scored after the quiz, and a local notification will be reset at that time to notify you at a particular time the next day if you haven't completed at least one quiz for that day.",
-      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644466782/flashcards_jhlg9s.png",
+      "image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644468946/flashcards_esvnul.png",
       "device_type": "mobile",
       "device_image_url": "https://res.cloudinary.com/dbitfc2gx/image/upload/v1644465512/mobile.flashcards_gf4d5m.png",
       "gif_url": "",
