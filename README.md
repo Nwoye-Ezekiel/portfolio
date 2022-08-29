@@ -1,3 +1,5 @@
-# Portfolio V2
+# My temporary portfolio website.
 
-Personal portfolio site 2.0!
+View live here: [Portfolio]
+
+[Portfolio]: https://nwoye-ezekiel-portfolio.netlify.app/
